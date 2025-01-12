@@ -1,4 +1,4 @@
 # Kartik-demo
 This is my First Repository
 <br>
-Author-Kartik Goswami (manu goswami)
+Author-Kartik Goswami
